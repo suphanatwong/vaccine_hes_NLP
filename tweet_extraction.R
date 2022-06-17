@@ -1,4 +1,3 @@
-### HW 7 ###
 
 library(rtweet)
 library(dplyr)
